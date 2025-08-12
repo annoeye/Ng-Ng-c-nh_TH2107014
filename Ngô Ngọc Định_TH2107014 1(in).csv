@@ -1,0 +1,71 @@
+No;TermNo;Subject Code;Subject Name;Year;Grade;Status
+1;1;7023-LBEP;Logic Building and Elementary Programming;Year2021;Written (max 10):5;Passed
+;;;;;Assignment (max 10):8;
+;;;;;Practical (max 15):12;
+2;1;7023-AJS;AngularJS;Year2021;Written (max 10):0;Not passed
+;;;;;Assignment (max 10):6;
+;;;;;Practical (max 15):11;
+3;1;7023-ePRJ1;eProject;Year2022;Project (max 100):59;Passed
+4;1;7023-DDD;Database Design & Development (NCC Module);Year2021;;Passed
+5;1;7023-HCJS;HTML5, CSS, JavaScript;Year2021;Written (max 10):3;Not passed
+;;;;;Assignment (max 10):8;
+;;;;;Practical (max 15):13;
+6;1;7023-DMS;Database Management with SQL Server;Year2021;Written (max 10):6.5;Passed
+;;;;;Assignment (max 10):7;
+;;;;;Practical (max 15):12.5;
+;;;;;;
+7;2;7023-JP1;Java Programing-I;Year2022;Written (max 10):0;Not passed
+;;;;;Assignment (max 10):0;
+;;;;;Practical (max 15):0;
+8;2;7023-JP2;Java Programing-II;Year2022;Written (max 10):7.5;Passed
+;;;;;Assignment (max 10):6.5;
+;;;;;Practical (max 15):13.5;
+9;2;7023-APC#;Application Programming with C#;Year2022;Written (max 10):0;Not passed
+;;;;;Assignment (max 10):0;
+;;;;;Practical (max 15):0;
+10;2;7023-PDLF;PHP Development with Laravel Framework;Year2024;Written (max 10):8.5;Passed
+;;;;;Assignment (max 10):8;
+;;;;;Practical (max 15):9;
+11;2;7023-PIIT;Professional Issues in IT (NCC);Year2025;Assignment (max10):0;Passed
+;;;;;Practical (max15):10;
+12;2;7023-ISA;Information Systems Analysis (NCC);Year2022;Assignment (max 10):6;Passed
+;;;;;Practical (max 15):10;
+13;2;7023-MLJ;Markup Language and JSON;Year2022;Written (max 10):0;Not passed
+14;2;7023-PRJ2;Project (Java Application Development);Year2023;Project (max 100):0;Not passed
+;;;;;;
+15;3;7023-ENJS;Essentials of NodeJS;Year2024;Written (max 10):8;Passed
+;;;;;Assignment (max 10):8;
+;;;;;Practical (max 15):10;
+16;3;7023-WDA;Web Developing using ASP.NET MVC;Year2024;Written (max 10):4.5;Passed
+;;;;;Assignment (max 10):5;
+;;;;;Practical (max 15):13;
+17;3;7023-NSC;Network Security and Cryptography (NCC);Year2023;Assignment (max 10):0;Not passed
+;;;;;Practical (max 15):0;
+18;3;7023-DMAWS;Developing Microsoft Azure and Web Services;Year2024;Written (max 10):7;Passed
+;;;;;Practical (max 15):15;
+19;3;7023-EJA;Emerging Job Areas-SMAC;Year2024;Written (max 10):9;Passed
+20;3;7023-AD;Agile Development (NCC);Year2025;Assignment (max10):0;Passed
+;;;;;Practical (max15):12;
+21;3;7023-ePRJ3;eProject (.NET Web Application Development);Year2025;Project (max 100):0;Not passed
+;;;;;;
+22;4;7023-WCD;Web Component Development using Java;Year2024;Written (max 10):7.5;Passed
+;;;;;Assignment (max 10):6;
+;;;;;Practical (max 15):10;
+23;4;7023-IASF;Integrating Application using Spring Framework;Year2024;Written (max 10):8;Passed
+;;;;;Assignment (max 10):6;
+;;;;;Practical (max 15):10;
+24;4;7023-EAD;Enterprise Application Development in Java EE;Year2024;Written (max 10):8.5;Passed
+;;;;;Assignment (max 10):6;
+;;;;;Practical (max 15):10;
+25;4;7023-CSW;Creating Services for the Web;Year2024;Written (max 10):8.5;Passed
+26;4;7023-IDP;Introduction to Dart Programming;Year2024;Written (max 10):5.5;Passed
+;;;;;Assignment (max 10):6;
+;;;;;Practical (max 15):10;
+27;4;7023-ADFD;Application Development using Flutter and Dart;Year2024;Written (max 10):8.5;Passed
+;;;;;Assignment (max 10):6;
+;;;;;Practical (max 15):10;
+28;4;7023-CP;Computing Project (NCC);Year2025;Assignment (max10):0;Passed
+;;;;;Practical (max15):11;
+29;4;7023-PRJ4;Project (Java Enterprise Application Development);Year2024;Project (max 100):60;Passed
+;;;;;;
+;;;;;;
